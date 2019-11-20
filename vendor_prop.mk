@@ -230,3 +230,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # ZRAM disk
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.vendor.qti.config.zram=true
+
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.product.device=X00TD
